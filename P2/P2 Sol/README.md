@@ -39,6 +39,7 @@ file_path = '/content/drive/My Drive/nlp_dataset/p2_train.csv'
 `
 file_path_test = '/content/drive/My Drive/nlp_dataset/p2_test.csv'
 `
+
 The datasets are present in a folder 'nlp_dataset' in the mounted drive
 
 This will have to be changed in accordance with the testing environment.
