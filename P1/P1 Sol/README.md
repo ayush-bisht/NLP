@@ -8,7 +8,7 @@ All the required packages are present in google colab.
 
 Make sure the file paths of the test and the train dataset are in accordance with the drive which is mounted.
 
-Currently the every file, train and test datasets as well as the output files will be stored in the following directory: 
+The train and test datasets are present and, the output files will be saved in the following directory: 
 
 `
 file_dir = '/content/drive/My Drive/nlp_dataset/'
