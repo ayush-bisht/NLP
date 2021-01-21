@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+sklearn
+nltk
+genism
+tensorflow
+pywsd
+vaderSentiment
+google.colab
+warnings
