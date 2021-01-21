@@ -1,0 +1,15 @@
+numpy
+pandas
+collections
+matplotlib
+seaborn
+sklearn
+gensim
+tensorflow
+pprint
+string
+re
+logging
+pickle
+multiprocessing
+warnings
