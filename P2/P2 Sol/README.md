@@ -27,7 +27,8 @@ universal sentence encoder using:
 hub.load("https://tfhub.dev/google/universal-sentence-encoder-large/5")
 ```
 
-## Note:
+## Note
+
 1. Make sure the file paths of the test and the train dataset are in accordance with the drive which is mounted.
 
 Currently the file paths are: 
