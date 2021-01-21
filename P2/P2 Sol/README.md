@@ -12,24 +12,10 @@ They can be installed as follows:
 !pip install -U pywsd
 ```
 
-## Addition downloads required
 
-nltk using:
-```
-nltk.download('wordnet')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('punkt')
-```
+## Setup
 
-universal sentence encoder using: 
-
-```
-hub.load("https://tfhub.dev/google/universal-sentence-encoder-large/5")
-```
-
-## Note
-
-1. Make sure the file paths of the test and the train dataset are in accordance with the drive which is mounted.
+Make sure the file paths of the test and the train dataset are in accordance with the drive which is mounted.
 
 Currently the file paths are: 
 
