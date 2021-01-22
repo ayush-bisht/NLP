@@ -9,10 +9,13 @@ For qa_testing:
 
 Make sure the following file/dir paths are adjusted according to file locations.
 
-
+`
 file- augmented_dev.json (augmented dev set)
+`
 
+`
 dir- bert-base-uncased and distilbert-base uncased (models and predictions are stored in these directories)
+`
 
 Currently the main directory where all files and sub-directories are stored is
 
