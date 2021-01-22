@@ -1,0 +1,13 @@
+transformers
+torch
+json
+pprint
+regex
+collections
+time
+matplotlib
+pathlib
+nltk
+string
+random
+spacy
